@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This is a Profile Management Application built using React + TypeScript, with Redux Toolkit for state management and React Router for navigation. Users can create, view, edit, and delete their profile with real-time form validation. The app uses Material UI (MUI) for styling, and saves data using both localStorage and a mock API via json-server. It is fully responsive, user-friendly, and deployed on Vercel for live access.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
